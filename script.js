@@ -2,7 +2,7 @@ url ="https://api.openweathermap.org/data/2.5/weather?q=";
 
 // url ="https://api.openweathermap.org/data/2.5/weather?q= {city name} &appid= {API key} &units=metric";
 
-let apiKey="0a0fbb2d3ac2c356bb408c74d73362ac";
+let apiKey="/* API KEY */";
 
 let temp=document.querySelector(".temperature");
 
